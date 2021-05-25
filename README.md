@@ -1,11 +1,4 @@
-Trained with Gunthercox dataset on word level using GloVe encoding
-Trained with Gunthercox dataset on word level using One-hot encoding
-Trained with Gunthercox dataset on character level
-Trained with Cornell dataset on word level using GloVe encoding
-Trained with Cornell dataset on word level using One-hot encoding
-Trained with Cornell dataset on character level
 Code:
-Code for the chatbot is divided in 2 parts:
 Machine Learning part (using keras)
 Web deployment part (using Flask)
 Machine Learning part ( chatbot_train):
